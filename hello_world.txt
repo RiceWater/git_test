@@ -1,0 +1,5 @@
+Used commands:
+1. Clone repo via https or SSH
+2. use "git add *"                      - to add all untracked/unstaged files 
+3. use "git commit -m "commit message"" - it will save to lcoal database
+4. git status                           - to check untracked and uncommitted files
